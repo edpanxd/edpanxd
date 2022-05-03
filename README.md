@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://i.pinimg.com/originals/ec/00/e0/ec00e04679ab0be4780ff840e12709fd.gif" width='20%' align="center">
+# Bio
 
 <!--
 **edpanxd/edpanxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
