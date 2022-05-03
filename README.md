@@ -1,5 +1,9 @@
 <img src="https://i.pinimg.com/originals/ec/00/e0/ec00e04679ab0be4780ff840e12709fd.gif" width='20%' align="center">
-# Bio
+# BIO
+CEO on [2LStudios](https://github.com/2lstudios), [StrawCI](https://github.com/strawci), [Nfense](https://github.com/nfense), [EnhancedTwitch](https://github.com/enhancedtwitch.com), [Dotphin](https://github.com/dotphin) and [Dot](https://github.com/dotmsn).  
+
+🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
+☁️ Networking, 🌟 Astronomy, 🧪 Chemistry, 💻 FullStack.  
 
 <!--
 **edpanxd/edpanxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
