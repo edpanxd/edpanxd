@@ -1,7 +1,8 @@
 <div>
- <h1>BIO
+  <h1>BIO
 <img src="https://i.pinimg.com/originals/ec/00/e0/ec00e04679ab0be4780ff840e12709fd.gif" width='20%' align="right">
   </h1>
+ <p>Me gusta comer galletas 🍪</p>
 </div>
 
 <!--
