@@ -3,12 +3,10 @@
   <img src="https://i.pinimg.com/originals/ec/00/e0/ec00e04679ab0be4780ff840e12709fd.gif" width='20%' align="right">
     </h1>
    <p> Desarrollador </p>
-  </div>
-  
-  <div>
-    <p>Actual mente trabajado en: <a href="https://bioin.mx/" target="_blank"><b>Biodiversidad Industrial SA de CV</b></a></p>
 
-    <h2>Conocimientos en:</h2>
+<p>Actual mente trabajado en: <a href="https://bioin.mx/" target="_blank"><b>Biodiversidad Industrial SA de CV</b></a></p>
+
+ <h2>Conocimientos en:</h2>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png" alt="" width='5%'>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png" alt="" width='5%'>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="" width='5%'>
