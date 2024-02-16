@@ -4,7 +4,12 @@
             align="right">
     </h1>
     <p> <b>Desarrollador</b>  </p>
-
+  <h2>Sobre mi:</h2>
+   <p>Proactivo, trabajador y creativo.
+    Conocimientos en análisis de datos digitales. 
+    Trabajo en equipo, organizado y responsable.
+    Gusto por aprender cosas nuevas, entusiasta en seguir creciendo y evolucionando en la profesión. Desarrollar constantemente nuevas habilidades y capacidades.</p>
+    
 <p>Actual mente trabajado en: <a href="https://bioin.mx/" target="_blank"><b>Biodiversidad Industrial SA de CV</b></a></p>
 
 <h2>Conocimientos en:</h2>
@@ -35,4 +40,5 @@
     <li>Paginas Web (PHP, HTML, CSS, BOOTSTRAP)</li>
    </ul>
 
+ 
 </div>
